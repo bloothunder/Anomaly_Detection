@@ -1,0 +1,1 @@
+Aborted connection 344 to db: 'openpdc' user: 'root' host: 'localhost' (Got an error reading communication packets)
